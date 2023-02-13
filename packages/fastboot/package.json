@@ -31,7 +31,7 @@
     "chalk": "^4.1.2",
     "cookie": "^0.4.1",
     "debug": "^4.3.3",
-    "jsdom": "^19.0.0",
+    "happy-dom": "^4.1.0",
     "resolve": "^1.22.0",
     "simple-dom": "^1.4.0",
     "source-map-support": "^0.5.21"
